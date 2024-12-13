@@ -1,0 +1,1 @@
+This repository demonstrates a common yet difficult-to-diagnose issue when using custom native modules within Expo Go. The issue manifests as a blank screen or a generic error message in Expo Go, lacking specifics to guide debugging. The `bug.js` file showcases the problematic setup, while `bugSolution.js` offers a working solution, highlighting potential causes and resolutions.
